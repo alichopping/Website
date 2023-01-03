@@ -3169,26 +3169,27 @@ input, select, textarea {
 .fa-phone{
   display: inline-block;
   text-align: left;
-  margin-left:-30.5em;
+  margin-left:-32.5em;
 }
 
 .fa-envelope{
   display: inline-block;
   text-align: left;
-  margin-left:-22.75em;
+  margin-left:-24.75em;
 }
 
 .fa-instagram{
   display: inline-block;
   text-align: left;
-  margin-left:-20.5em;
+  margin-left:-22.5em;
 }
 
 .fa-linkedin{
   display: inline-block;
   text-align: left;
-  margin-left:-22.25em;
+  margin-left:-24.25em;
 }
+
 
 .mepic{
 position: absolute;
@@ -3200,5 +3201,11 @@ margin-top:0.6em;
 .fa-home {
   display: inline-block;
   text-align: left;
-  margin-left:-15em;
+  margin-left:-17em;
+}
+
+.uniicon{
+  display: inline-block;
+  text-align: left;
+  margin-left:-21.75em;
 }
