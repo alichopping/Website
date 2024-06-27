@@ -3190,6 +3190,11 @@ input, select, textarea {
   margin-left:-24.25em;
 }
 
+.fa-github{
+  display: inline-block;
+  text-align: left;
+  margin-left:-28.75em;
+}
 
 .mepic{
 position: absolute;
