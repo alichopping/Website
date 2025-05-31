@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg");
+		background-image: url("images/overlay.png"), url("../../images/St_pauls.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2831,7 +2831,7 @@ input, select, textarea {
 				}
 
 			#header header p {
-				color: #ffffff;
+				color: #000000;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
@@ -2878,7 +2878,7 @@ input, select, textarea {
 		}
 
 			#footer footer h1, #footer footer h2, #footer footer h3, #footer footer h4, #footer footer h5, #footer footer h6, #footer footer strong, #footer footer b {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			#footer footer a {
@@ -2886,7 +2886,7 @@ input, select, textarea {
 			}
 
 				#footer footer a:hover {
-					color: #ffffff !important;
+					color: #000000 !important;
 				}
 
 			#footer footer .copyright {
